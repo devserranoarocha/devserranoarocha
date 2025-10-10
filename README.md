@@ -50,7 +50,7 @@ Mi experiencia en entornos estructurados me ha dotado de habilidades clave para 
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/salvador-serrano-arocha](https://www.linkedin.com/in/salvador-serrano-arocha) |
 | **Email** | [serranoarocha@gmail.com](mailto:serranoarocha@gmail.com) |
-| **Teléfono (Opcional)** | `+34 676 084 522` |
+| **Teléfono** | `+34 676 084 522` |
 
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,angular,js,postgres,python,git,docker,linux)](https://skillicons.dev) 
 <p align="center">
