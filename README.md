@@ -1,5 +1,7 @@
 # 👋 Hola, soy Salvador Serrano
-### Desarrollador de Software Jr. | Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+### Desarrollador de Software Jr. 
+### Técnico Superior en Desarrollo de Aplicaciones Web (DAW). 
+### Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 ---
 
