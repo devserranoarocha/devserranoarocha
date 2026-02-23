@@ -20,10 +20,10 @@ He desarrollado una base sólida como **Desarrollador Full Stack** durante mi fo
 
 | Área | Tecnologías Clave |
 | :--- | :--- |
-| **Backend** | **PHP**, **Symfony**, Python. |
+| **Backend** | **PHP**, **Symfony**, **Python**. |
 | **Frontend** | **JavaScript**, **Angular**. |
-| **Bases de Datos** | PostgreSQL. |
-| **DevOps / Herramientas** | Git, Docker, API-Rest (Postman). |
+| **Bases de Datos** | **PostgreSQL**, **MySql**, **MariaDB**. |
+| **DevOps / Herramientas** | **Git**, **Docker**, **API-Rest (Postman)**. |
 
 ### Base Técnica Sólida (Sistemas & Ciberseguridad) 🔒
 
